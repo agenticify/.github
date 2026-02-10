@@ -1,6 +1,6 @@
-# Kodozo
+# Agenticify
 
-Kodozo is building tools that improve developer productivity and code quality.
+Agenticify is building tools that improve developer productivity and code quality.
 
 ## What we do
 - AI-assisted code review and code intelligence
@@ -8,7 +8,7 @@ Kodozo is building tools that improve developer productivity and code quality.
 - Automation for faster, safer shipping
 
 ## Projects
-- **Kodozo** — AI-powered code review assistant (GitHub App)
+- **Agenticify** — AI-powered code review assistant (GitHub App)
 - More coming soon.
 
 ## Get involved
@@ -22,5 +22,5 @@ If you’d like to support the work:
 - GitHub Sponsors: see the **Sponsor** button on our repos
 
 ## Contact
-- Website: kodozo.ai
-- Email: kodozoai@gmail.com
+- Website: agenticify.ai
+- Email: agenticify@gmail.com
