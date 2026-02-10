@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We’re **Kodozo** — building AI-powered tools that improve developer productivity and code quality.
+We’re **Agenticify** — building AI-powered tools that improve developer productivity and code quality.
 
 ### 🙋‍♀️ What we’re about
 - **AI-assisted code review** with repo context (not generic feedback)
@@ -16,7 +16,7 @@ We love contributions! Here’s the easiest way to start:
 > Please keep PRs focused and include a short “why” + “what changed”.
 
 ### 👩‍💻 Useful resources
-- 🌐 Website: **kodozo.ai**
+- 🌐 Website: **agenticify.ai**
 - 📌 Repos: check pinned projects on our organization page
 - 🧾 Docs: see each repo’s README (we’re improving docs continuously)
 
