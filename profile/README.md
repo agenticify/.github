@@ -16,7 +16,7 @@ We love contributions! Here’s the easiest way to start:
 > Please keep PRs focused and include a short “why” + “what changed”.
 
 ### 👩‍💻 Useful resources
-- 🌐 Website: **agenticify.ai**
+- 🌐 Website: **agenticify.io**
 - 📌 Repos: check pinned projects on our organization page
 - 🧾 Docs: see each repo’s README (we’re improving docs continuously)
 
