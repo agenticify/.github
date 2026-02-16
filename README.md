@@ -22,5 +22,5 @@ If you’d like to support the work:
 - GitHub Sponsors: see the **Sponsor** button on our repos
 
 ## Contact
-- Website: agenticify.ai
-- Email: agenticify@gmail.com
+- Website: agenticify.io
+- Email: help@agenticify.io
